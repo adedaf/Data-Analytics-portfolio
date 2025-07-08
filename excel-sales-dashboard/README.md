@@ -15,5 +15,5 @@ Sales dashboard using pivot tables, charts, and slicers in Excel to visualize mo
 Sample Excel data
 
 ## Screenshot
-(Add image when readyexcel-sales-dashboard/dashboard_screenshot.jpg
+Excel-sales-dashboard/dashboard_screenshot.jpg
 
