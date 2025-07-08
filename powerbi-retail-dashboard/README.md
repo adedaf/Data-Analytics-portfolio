@@ -25,6 +25,7 @@ An interactive retail dashboard created in Power BI using Superstore data to vis
 - `retail_dashboard.pbix` – Power BI file
 - Screenshot of dashboard
 
-## 📷 Screenshot
+## 📷 Screenshoot
 ![Dashboard](dashboard_screenshot.jpg)
+
 
