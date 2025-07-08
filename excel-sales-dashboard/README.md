@@ -1,4 +1,4 @@
-# Excel Sales Dashboard
+5# Excel Sales Dashboard
 
 ## Overview
 Sales dashboard using pivot tables, charts, and slicers in Excel to visualize monthly and regional performance.
@@ -15,4 +15,5 @@ Sales dashboard using pivot tables, charts, and slicers in Excel to visualize mo
 Sample Excel data
 
 ## Screenshot
-(Add image when ready)
+(Add image when readyexcel-sales-dashboard/dashboard_screenshot.jpg
+
