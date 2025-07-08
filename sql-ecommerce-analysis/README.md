@@ -27,4 +27,5 @@ This project analyzes e-commerce transactions using SQL. It extracts insights fr
 - Screenshot of query results or data preview
 
 ## 📷 Screenshot
-(Add screenshot of SQL editor or results here)
+sql-ecommerce-analysis/
+
